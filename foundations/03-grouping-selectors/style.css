@@ -1,14 +1,15 @@
-.one {
+.inverted {
     background-color: #000000;
     color: #ffffff;
     font-weight: bold;
 }
 
-.two {
+.fancy {
     background-color: #ffff00;
 }
 
-#both {
+.inverted,
+.fancy {
     font-size: 28px;
     font-family: Helvetica, Times New Roman, sans-serif;
 }
